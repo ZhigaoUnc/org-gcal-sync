@@ -1,1 +1,1 @@
-fork of another org-gcal-sync plugin with functionality like how I wanted not for other people's use but it is upto you 
+fork of another org-gcal-sync plugin with more file centric sync (not intended to be used by other retards) 
